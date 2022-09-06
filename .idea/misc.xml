@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/bg_home_wave.xml" value="0.1255" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/dotted.xml" value="0.2115" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/ic_back.xml" value="0.1585" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/ic_co_present.xml" value="0.1585" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/ic_compare.xml" value="0.1585" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/ic_double_arrow.xml" value="0.1585" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/drawable/spinner_background.xml" value="0.1255" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_coba.xml" value="0.1" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_history.xml" value="0.22" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_input_data.xml" value="0.1951219512195122" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_login1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_main.xml" value="0.2821180555555556" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_register.xml" value="0.27756653992395436" />
+        <entry key="..\:/Users/UserPc/AndroidStudioProjects/TiketApp/app/src/main/res/layout/activity_tiket.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
